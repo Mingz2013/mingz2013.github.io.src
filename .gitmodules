@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = https://github.com/mingz2013/mingz2013.github.io.git

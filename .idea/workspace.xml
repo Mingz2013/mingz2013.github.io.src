@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370edd72-be4c-4288-a88a-79ca30ba9c62" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/zhaojm.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output" afterPath="$PROJECT_DIR$/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/helloworld.md" afterPath="$PROJECT_DIR$/content/helloworld.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="$PROJECT_DIR$/output/archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/author/alexis-metaireau.html" afterPath="$PROJECT_DIR$/output/author/alexis-metaireau.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="$PROJECT_DIR$/output/authors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="$PROJECT_DIR$/output/categories.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/category/python.html" afterPath="$PROJECT_DIR$/output/category/python.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/my-super-post.html" afterPath="$PROJECT_DIR$/output/my-super-post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tag/pelican.html" afterPath="$PROJECT_DIR$/output/tag/pelican.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tag/publishing.html" afterPath="$PROJECT_DIR$/output/tag/publishing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="$PROJECT_DIR$/output/tags.html" />
     </list>
     <ignored path="mingz2013.github.io.src.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -146,6 +134,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mingz2013.github.io.src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingz2013.github.io.src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mingz2013.github.io.src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mycustomtheme" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -432,7 +438,13 @@
       <option name="project" value="LOCAL" />
       <updated>1478635420479</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1478635714641</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1478635714641</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">

@@ -108,17 +108,18 @@ THEME_STATIC_PATHS = ['static']
 
 
 GITHUB_URL = 'http://github.com/mingz2013/'
-DISQUS_SITENAME = "mingz's home"
+# DISQUS_SITENAME = "mingz's home"
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True
 
 DEFAULT_LANG = u'en'
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
+LINKS = (('mingz', 'http://mingz.me'),
+         ('github', 'http://github.com/mingz2013'),
+         ('csdn', 'http://blog.csdn.net/mingzznet'),
+         # ('You can modify those links in your config file', '#'),
+         )
 
 # Social widget
 SOCIAL = (('github', 'http://github.com/mingz2013'),
@@ -128,9 +129,6 @@ SOCIAL = (('github', 'http://github.com/mingz2013'),
 
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
-
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
 
 # foobar will not be used, because it's not in caps. All configuration keys
 # have to be in caps

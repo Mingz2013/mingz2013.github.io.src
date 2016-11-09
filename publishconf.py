@@ -17,7 +17,7 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # DELETE_OUTPUT_DIRECTORY = True
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = False  # 是否删除output文件
 
 # Following items are often useful when publishing
 

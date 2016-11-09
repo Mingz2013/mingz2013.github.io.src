@@ -115,15 +115,16 @@ REVERSE_CATEGORY_ORDER = True
 DEFAULT_LANG = u'en'
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('lastfm', 'http://lastfm.com/user/akounet'),
-          ('github', 'http://github.com/ametaireau'),)
+SOCIAL = (('github', 'http://github.com/mingz2013'),
+          ('csdn', 'http://blog.csdn.net/mingzznet'),
+          # ('twitter', 'http://twitter.com/ametaireau'),
+          )
 
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}

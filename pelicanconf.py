@@ -107,7 +107,7 @@ THEME_STATIC_PATHS = ['static']
 # * simple (a synonym for "plain text" :)
 
 
-GITHUB_URL = 'http://github.com/mingz2013/'
+GITHUB_URL = 'http://github.com/mingz2013'
 # DISQUS_SITENAME = "mingz's home"
 PDF_GENERATOR = False
 REVERSE_CATEGORY_ORDER = True

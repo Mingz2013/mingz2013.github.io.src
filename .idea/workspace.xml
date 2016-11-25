@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="370edd72-be4c-4288-a88a-79ca30ba9c62" name="Default" comment="init">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html" />
     </list>
     <ignored path="mingz2013.github.io.src.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,18 +37,28 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5">
-              <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+            <state vertical-scroll-proportion="-15.0">
+              <caret line="40" column="56" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0591716">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2366864">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -147,7 +156,6 @@
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/category.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/tag.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/authors.html" />
-        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/list.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/article.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/period_archives.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/tags.html" />
@@ -164,6 +172,7 @@
         <option value="$PROJECT_DIR$/pelicanconf.py" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html" />
+        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/list.html" />
       </list>
     </option>
   </component>
@@ -914,14 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44378698">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/archives.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4733728">
@@ -1024,16 +1025,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
-          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="40" column="56" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0591716">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2366864">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
           <folding />
         </state>
       </provider>

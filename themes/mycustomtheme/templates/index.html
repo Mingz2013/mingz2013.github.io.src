@@ -5,7 +5,7 @@
     <div class="col-sm-8 blog-main">
     {% for article in articles %}
         <div class="blog-post">
-            <h2 class="blog-post-title">article.title</h2>
+            <h2 class="blog-post-title">{{ article.title }}</h2>
             <p class="blog-post-meta">{{ article.date }} by <a href="#">{{ article.author }}</a></p>
 
             <p>{{ article.summary }}</p>

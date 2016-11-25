@@ -2,84 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370edd72-be4c-4288-a88a-79ca30ba9c62" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/mycustomtheme/static/css/cover.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/articles/hello.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/articles/helloworld.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/articles/html/test_html.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/articles/js/about_js.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/articles/python/about_python.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/articles/test.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/extra/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/extra/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/extra/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/mingz.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/html.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/js.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/python.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/yeah.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/all-en.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/all.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/all.rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/html.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/html.rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/js.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/js.rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/mingz.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/mingz.rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/python.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/python.rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/yeah.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/yeah.rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/pages/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/pages/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2010/Dec/03/hello/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2010/Dec/03/helloworld/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2010/Dec/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2010/Oct/03/rst-test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2010/Oct/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2010/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/25/about-js/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/25/about-python/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/25/hello/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/25/helloworld/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/25/rst-test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/25/test-html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/Nov/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/posts/2016/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/awesome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/hello.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/html.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/js.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/pelican.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/publishing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/thats.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/static/css/blog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/archives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/article.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/author.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/authors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/category.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/elsewhere.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/period_archives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/tag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/tags.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output" afterPath="$PROJECT_DIR$/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" />
     </list>
     <ignored path="mingz2013.github.io.src.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -121,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65088755">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="-17.5">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="43" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -134,8 +67,8 @@
       <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -144,8 +77,8 @@
       <file leaf-file-name="page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.25">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.625">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -199,10 +132,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Makefile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Makefile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.7627119">
               <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
@@ -237,7 +170,6 @@
         <option value="$PROJECT_DIR$/content/articles/html/test_html.md" />
         <option value="$PROJECT_DIR$/content/articles/js/about_js.md" />
         <option value="$PROJECT_DIR$/content/articles/python/about_python.md" />
-        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/index.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/author.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/category.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/tag.html" />
@@ -253,13 +185,14 @@
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/github.html" />
         <option value="$PROJECT_DIR$/docs/1.md" />
         <option value="$PROJECT_DIR$/docs/todo.md" />
-        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/list.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/article.html" />
-        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/page.html" />
         <option value="$PROJECT_DIR$/pelicanconf.py" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/static/css/blog.css" />
+        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" />
+        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/index.html" />
+        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/page.html" />
       </list>
     </option>
   </component>
@@ -675,7 +608,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -685,7 +618,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30472636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30472636" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -783,14 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0295858">
-          <caret line="1" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/pages/contact.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -837,14 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/project.md">
       <provider editor-type-id="MultiMarkdownFxPreviewEditor">
         <state />
@@ -887,30 +804,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.25">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/static/css/cover.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
@@ -919,10 +812,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65088755">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="43" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7627119">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>

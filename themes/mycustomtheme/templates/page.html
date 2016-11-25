@@ -24,7 +24,7 @@
 
         <div class="blog-post">
              <h2 class="blog-post-title"><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></h2>
-            <p class="blog-post-meta">{{ page.date }} by <a href="{{ SITEURL }}/{{ page.author.url }}">{{ page.author }}</a></p>
+            <p class="blog-post-meta">{{ page.date.strftime('%Y-%m-%d %H:%M:%S') }} by <a href="{{ SITEURL }}/{{ page.author.url }}">{{ page.author }}</a></p>
 
             <p>{{ page.summary }}</p>
             <hr>

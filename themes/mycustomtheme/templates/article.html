@@ -6,7 +6,7 @@
 
         <div class="blog-post">
              <h2 class="blog-post-title"><a href="{{ article.url }}">{{ article.title }}</a></h2>
-            <p class="blog-post-meta">{{ article.date }} by <a href="/author/{{ article.author }}.html">{{ article.author }}</a></p>
+            <p class="blog-post-meta">{{ article.date }} by <a href="{{ article.author.url }}">{{ article.author }}</a></p>
 
             <p>{{ article.summary }}</p>
             <hr>

@@ -98,8 +98,8 @@ TAG_CLOUD_MAX_ITEMS = 100
 # 内容排序
 
 # 主题
-# THEME = "themes/mycustomtheme"  # 主题
-THEME = 'notmyidea'
+THEME = "themes/mycustomtheme"  # 主题
+# THEME = 'notmyidea'
 THEME_STATIC_DIR = 'theme'
 THEME_STATIC_PATHS = ['static']
 # CSS_FILE = 'main.css'

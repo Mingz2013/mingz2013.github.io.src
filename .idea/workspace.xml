@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370edd72-be4c-4288-a88a-79ca30ba9c62" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/list.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/author.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/author.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/category.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/index.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/tag.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/tag.html" />
     </list>
     <ignored path="mingz2013.github.io.src.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,18 +27,18 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+            <state vertical-scroll-proportion="-18.125">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2366864">
-              <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -131,10 +126,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="article.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="article.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875">
+            <state vertical-scroll-proportion="0.56213015">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
@@ -179,12 +174,12 @@
         <option value="$PROJECT_DIR$/content/articles/js/about_js.md" />
         <option value="$PROJECT_DIR$/content/articles/python/about_python.md" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/article.html" />
-        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/index.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/author.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/category.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/tag.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/list.html" />
+        <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" />
       </list>
     </option>
   </component>
@@ -1133,22 +1128,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
@@ -1183,8 +1162,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2366864">
-          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.125">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56213015">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>

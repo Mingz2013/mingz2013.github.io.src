@@ -5,8 +5,8 @@
     <div class="col-sm-8 blog-main">
     {% for article in articles %}
         <div class="blog-post">
-            <h2 class="blog-post-title"><a href="/{{ article.url }}">{{ article.title }}</a></h2>
-            <p class="blog-post-meta">{{ article.date }} by <a href="/{{ article.author.url }}">{{ article.author }}</a></p>
+            <h2 class="blog-post-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+            <p class="blog-post-meta">{{ article.date }} by <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></p>
 
             <p>{{ article.summary }}</p>
             <hr>

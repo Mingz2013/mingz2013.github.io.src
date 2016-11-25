@@ -28,7 +28,7 @@ RELATIVE_URLS = False  # 定义是否使用文档相对URL链接，只有当测�
 PLUGINS = []  # 插件
 
 SITENAME = u"Mingz's Home"  # 站点名称
-SITESUBTITLE = u"Mingz's blog on GitHub Page"
+SITESUBTITLE = u"Mingz's Home on GitHub Page"
 SITEURL = 'http://localhost'  # 站点url
 
 TIMEZONE = 'Europe/Paris'

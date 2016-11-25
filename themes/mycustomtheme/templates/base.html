@@ -22,7 +22,7 @@
     <div class="blog-masthead">
         <div class="container">
             <nav class="blog-nav">
-                <a class="blog-nav-item active" href="{{ SITEURL }}">Home</a>
+                <a class="blog-nav-item active" href="{{ SITEURL }}/">Home</a>
                 <a class="blog-nav-item" href="{{ SITEURL }}/archives.html">Archives</a>
                 {% for page in pages %}
                     <a class="blog-nav-item" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
@@ -35,8 +35,8 @@
 <div class="container">
 
     <div class="blog-header">
-        <h1 class="blog-title"><a href="{{ SITEURL }}">Mingz's Blog</a></h1>
-        <p class="lead blog-description">Mingz's Blog use github.</p>
+        <h1 class="blog-title"><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>
+        <p class="lead blog-description">{{ SITESUBTITLE }}</p>
     </div>
 
     <div class="row">

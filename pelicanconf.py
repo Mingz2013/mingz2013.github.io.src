@@ -9,8 +9,8 @@ AUTHOR = u'mingz'  # 默认作者
 USE_FOLDER_AS_CATEGORY = True  # 用目录作为类别
 DEFAULT_CATEGORY = 'misc'  # 默认文章分类
 
-DISPLAY_PAGES_ON_MENU = True  # 是否在模板菜单上显示页面
-DISPLAY_CATEGORIES_ON_MENU = True  # 是否在模板菜单上显示分类
+# DISPLAY_PAGES_ON_MENU = True  # 是否在模板菜单上显示页面
+# DISPLAY_CATEGORIES_ON_MENU = True  # 是否在模板菜单上显示分类
 DEFAULT_DATE = "fs"  # (2012, 3, 2, 14, 1, 1) 默认日期
 # global metadata to all the contents
 DEFAULT_METADATA = {'yeah': 'it is'}  # 文章和页面的默认元数据设置
@@ -28,6 +28,7 @@ RELATIVE_URLS = False  # 定义是否使用文档相对URL链接，只有当测�
 PLUGINS = []  # 插件
 
 SITENAME = u"mingz's home"  # 站点名称
+SITESUBTITLE = u"mingz's blog"
 SITEURL = 'http://localhost'  # 站点url
 
 TIMEZONE = 'Europe/Paris'
@@ -74,13 +75,13 @@ EXTRA_PATH_METADATA = {
 
 # Feed 设置
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-FEED_ALL_RSS = 'feeds/all.rss.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+# FEED_ALL_ATOM = None
+# CATEGORY_FEED_ATOM = None
+# TRANSLATION_FEED_ATOM = None
+# AUTHOR_FEED_ATOM = None
+# AUTHOR_FEED_RSS = None
+# FEED_ALL_RSS = 'feeds/all.rss.xml'
+# CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # 分页
 # DEFAULT_ORPHANS
@@ -91,8 +92,8 @@ DEFAULT_PAGINATION = 10  # 分页长度
 # )
 
 # 云标签
-TAG_CLOUD_STEPS = 4
-TAG_CLOUD_MAX_ITEMS = 100
+# TAG_CLOUD_STEPS = 4
+# TAG_CLOUD_MAX_ITEMS = 100
 
 # 翻译
 # 内容排序

@@ -49,7 +49,7 @@
             <h4>Tags</h4>
             <ol class="list-unstyled">
                 {% for tag, articles in tags|sort %}
-                    <li><a href="tag/{{ tag }}.html">{{ tag }}({{ articles|count }})</a></li>
+                    <li><a href="/tag/{{ tag }}.html">{{ tag }}({{ articles|count }})</a></li>
                 {% endfor %}
             </ol>
             </div>
@@ -58,7 +58,7 @@
             <h4>Categories</h4>
             <ol class="list-unstyled">
                 {% for category, articles in categories|sort %}
-                    <li><a href="category/{{ category }}.html">{{ category }}({{ articles|count }})</a></li>
+                    <li><a href="/category/{{ category }}.html">{{ category }}({{ articles|count }})</a></li>
                 {% endfor %}
             </ol>
             </div>

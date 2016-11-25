@@ -4,10 +4,10 @@ from __future__ import unicode_literals
 
 # 基本配置
 
-AUTHOR = u'mingz'  # 默认作者
+AUTHOR = u'Mingz'  # 默认作者
 
-USE_FOLDER_AS_CATEGORY = True  # 用目录作为类别
-DEFAULT_CATEGORY = 'misc'  # 默认文章分类
+# USE_FOLDER_AS_CATEGORY = True  # 用目录作为类别
+# DEFAULT_CATEGORY = 'misc'  # 默认文章分类
 
 # DISPLAY_PAGES_ON_MENU = True  # 是否在模板菜单上显示页面
 # DISPLAY_CATEGORIES_ON_MENU = True  # 是否在模板菜单上显示分类
@@ -27,7 +27,7 @@ ARTICLE_PATHS = ['articles', ]  # 文章输入文件目录
 RELATIVE_URLS = False  # 定义是否使用文档相对URL链接，只有当测试时设置为 True
 PLUGINS = []  # 插件
 
-SITENAME = u"Mingz's home"  # 站点名称
+SITENAME = u"Mingz's Home"  # 站点名称
 SITESUBTITLE = u"Mingz's blog on GitHub Page"
 SITEURL = 'http://localhost'  # 站点url
 
@@ -38,13 +38,13 @@ TYPOGRIFY = True  # 如果设置为True, 一些排版效果将会纳入生成的
 # DIRECT_TEMPLATES = ('index', 'tags', 'categories',
 #                     'archives')  # 直接使用模板。 通常情况下直接使用模板生成index页面的内容，(e.g., tags and category index pages). 如果无需标签和分类合集,设置 DIRECT_TEMPLATES = ('index', 'archives')
 # PAGINATED_DIRECT_TEMPLATES = ('index',)  # 提供可以分页的模板
-SUMMARY_MAX_LENGTH = 50  # 文章摘要最大字数。
+# SUMMARY_MAX_LENGTH = 50  # 文章摘要最大字数。
 
 # URL配置
-ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
-YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
+# ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+# ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+# YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+# MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 
 # 日期格式和语言环境
 # DATE_FORMATS = {}  # 日期格式设置
@@ -85,7 +85,7 @@ EXTRA_PATH_METADATA = {
 
 # 分页
 # DEFAULT_ORPHANS
-DEFAULT_PAGINATION = 10  # 分页长度
+# DEFAULT_PAGINATION = 10  # 分页长度
 # PAGINATION_PATTERNS = (
 #     (1, '{base_name}/', '{base_name}/index.html'),
 #     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),

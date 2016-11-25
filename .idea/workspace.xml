@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="370edd72-be4c-4288-a88a-79ca30ba9c62" name="Default" comment="init">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/mycustomtheme/templates/github.html" afterPath="$PROJECT_DIR$/themes/mycustomtheme/templates/github.html" />
     </list>
     <ignored path="mingz2013.github.io.src.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,11 +58,10 @@
       <file leaf-file-name="github.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/github.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2366864">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.20710059">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
-                <element signature="e#88#144#0#HTML" expanded="true" />
-                <element signature="e#263#318#0#HTML" expanded="true" />
+                <element signature="e#275#330#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -979,11 +979,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/mycustomtheme/templates/github.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2366864">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.20710059">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
-            <element signature="e#88#144#0#HTML" expanded="true" />
-            <element signature="e#263#318#0#HTML" expanded="true" />
+            <element signature="e#275#330#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>

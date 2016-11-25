@@ -27,8 +27,8 @@ ARTICLE_PATHS = ['articles', ]  # 文章输入文件目录
 RELATIVE_URLS = False  # 定义是否使用文档相对URL链接，只有当测试时设置为 True
 PLUGINS = []  # 插件
 
-SITENAME = u"mingz's home"  # 站点名称
-SITESUBTITLE = u"mingz's blog"
+SITENAME = u"Mingz's home"  # 站点名称
+SITESUBTITLE = u"Mingz's blog on GitHub Page"
 SITEURL = 'http://localhost'  # 站点url
 
 TIMEZONE = 'Europe/Paris'

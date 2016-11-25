@@ -1,9 +1,9 @@
-Title: Hello
+Title: Test Html
 Date: 2016-11-25 15:20
 Modified: 2016-11-25 15:20
-Category: Python
-Tags: pelican, publishing
-Slug: hello
+Category: html
+Tags: test, html
+Slug: test-html
 Author: Mingz
 Summary: Short version for index and feeds
 

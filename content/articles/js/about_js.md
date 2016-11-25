@@ -1,9 +1,9 @@
-Title: Hello
+Title: About JS
 Date: 2016-11-25 15:20
 Modified: 2016-11-25 15:20
-Category: Python
-Tags: pelican, publishing
-Slug: hello
+Category: js
+Tags: js, test
+Slug: about-js
 Author: Mingz
 Summary: Short version for index and feeds
 

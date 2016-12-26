@@ -6,5 +6,6 @@ Tags: about
 Slug: about
 Author: Mingz
 Summary: Short version for index and feeds
+Status: draft
 
 About

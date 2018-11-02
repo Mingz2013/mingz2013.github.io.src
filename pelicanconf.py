@@ -80,6 +80,8 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/CNAME': {'path': 'CNAME'},
     'extra/README.md': {'path': 'README.md'},
+    'extra/sitemap.xml': {'path': 'sitemap.xml'},
+    'extra/google13216c227cdfffc0.html': {'path': 'google13216c227cdfffc0.html'},
 }
 
 # Feed 设置

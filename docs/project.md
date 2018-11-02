@@ -1,11 +1,19 @@
 - 新建项目 mingz2013.github.io.src
+
 `git clone https://github.com/mingz2013/mingz2013.github.io.src.git`
+
 `cd mingz2013.github.io.src`
+
+
 - 添加子模块 到目录output
+
 `#git submodule add https://github.com/mingz2013/mingz2013.github.io.git output`
+
 `git clone https://github.com/mingz2013/mingz2013.github.io.git output`
 
+
 - 初始化pelican项目
+
 `pelican-quickstart`
 
 

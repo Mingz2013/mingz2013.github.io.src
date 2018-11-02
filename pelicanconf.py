@@ -74,7 +74,9 @@ STATIC_PATHS = [
     "pdfs",
     'extra/robots.txt',
     'extra/CNAME',
-    'extra/README.md'
+    'extra/README.md',
+    'extra/sitemap.xml',
+    'extra/google13216c227cdfffc0.html',
 ]  # 在output目录中提供可访问的静态路径 “static”.
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},

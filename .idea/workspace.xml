@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="370edd72-be4c-4288-a88a-79ca30ba9c62" name="Default" comment="init">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/extra/google13216c227cdfffc0.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output" afterPath="$PROJECT_DIR$/output" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelican-plugins" afterPath="$PROJECT_DIR$/pelican-plugins" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
     </list>
     <ignored path="mingz2013.github.io.src.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="416">
+              <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -105,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sitemap.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output/sitemap.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="617" column="0" lean-forward="true" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
+            <state relative-caret-position="720">
+              <caret line="617" column="0" lean-forward="false" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -143,7 +141,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/output" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,8 +187,8 @@
         <option value="$PROJECT_DIR$/docs/project.md" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/plugins/google.adsense.html" />
         <option value="$PROJECT_DIR$/themes/mycustomtheme/templates/base.html" />
-        <option value="$PROJECT_DIR$/pelicanconf.py" />
         <option value="$PROJECT_DIR$/output/sitemap.xml" />
+        <option value="$PROJECT_DIR$/pelicanconf.py" />
       </list>
     </option>
   </component>
@@ -243,35 +241,7 @@
             <path>
               <item name="mingz2013.github.io.src" type="b2602c69:ProjectViewProjectNode" />
               <item name="mingz2013.github.io.src" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mingz2013.github.io.src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mingz2013.github.io.src" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mycustomtheme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mingz2013.github.io.src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mingz2013.github.io.src" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mycustomtheme" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mingz2013.github.io.src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mingz2013.github.io.src" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mycustomtheme" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mingz2013.github.io.src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mingz2013.github.io.src" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="mycustomtheme" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -602,8 +572,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16027689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16027689" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -943,14 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pelican-plugins/sitemap/sitemap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -961,8 +923,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="617" column="0" lean-forward="true" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
+        <state relative-caret-position="720">
+          <caret line="617" column="0" lean-forward="false" selection-start-line="617" selection-start-column="0" selection-end-line="617" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="78" column="4" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="4" />
           <folding />
         </state>
       </provider>
